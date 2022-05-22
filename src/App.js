@@ -1,11 +1,16 @@
 
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Home from './Components/Pages/Home/Home';
+import Navbar from './Components/Shared/Navbar';
 
 function App() {
   return (
     <div>
-      <h2 className='text-red-200'>hellow</h2>
-      <button className='btn btn-primary'>hellow</button>
+      <Navbar>
+       <Home></Home>
+      </Navbar>
+      
     </div>
   );
 }
