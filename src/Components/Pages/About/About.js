@@ -1,9 +1,10 @@
 import React from 'react'
+import "./About.css"
 
-const About = () => {
+const Login = () => {
   return (
-    <div>About</div>
+    <div className=""></div>
   )
 }
 
-export default About
+export default Login
