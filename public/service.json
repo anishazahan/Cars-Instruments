@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Mechanical Instruments",
+        "description":"This warranty begins when the manufacturer’s warranty expires. And for a year, you can use the Roadside Assistance Service for free starting from the extended warranty date."
+       
+    },
+    {
+        "id":2,
+        "name":"Power and Energy",
+        "description":"This service is available to all customers in the kingdom"
+       
+    },
+    {
+        "id":3,
+        "name":"Automative Manufacturing",
+        "description":"This warranty begins when the manufacturer’s warranty expires. And for a year, you can use the Roadside Assistance Service for free starting from the extended warranty date."
+       
+    },
+    {
+        "id":1,
+        "name":"Changing capacity",
+        "description":"This warranty begins when the manufacturer’s warranty expires. And for a year, you can use the Roadside Assistance Service for free starting from the extended warranty date."
+       
+    },
+    {
+        "id":1,
+        "name":"Easy Delivery System",
+        "description":"This warranty begins when the manufacturer’s warranty expires. And for a year, you can use the Roadside Assistance Service for free starting from the extended warranty date."
+       
+    },
+    {
+        "id":1,
+        "name":"Lasting Condition",
+        "description":"This warranty begins when the manufacturer’s warranty expires. And for a year, you can use the Roadside Assistance Service for free starting from the extended warranty date."
+       
+    }
+]

@@ -18,10 +18,10 @@ const Navbar = ({ children }) => {
         <div className="w-full navbar bg-black px-12">
           <div className="flex-1 px-2 mx-2 font-bold text-info">
             {" "}
-            <span className="text-primary mr-1.5 text-2xl font-bold">
-              CAR
+            <span className="text-primary mr-1.5 text-2xl font-extrabold ">
+              CARS
             </span>{" "}
-            MANUFACTURER
+           INSTRUMENTS
           </div>
           <div className="flex-none lg:hidden">
             <label htmlFor="my-drawer-3" className="btn btn-square btn-ghost">
