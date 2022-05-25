@@ -8,6 +8,7 @@ import Login from "./Components/Pages/Login/Login";
 import Register from "./Components/Pages/Register/Register";
 import Services from "./Components/Pages/Services/Services";
 import RequireAuth from "./Components/RequireAuth/RequireAuth";
+
 import Navbar from "./Components/Shared/Navbar";
 
 function App() {
@@ -30,7 +31,10 @@ function App() {
            <Route path="/login" element={<Login></Login> } />
            <Route path="/register" element={<Register></Register> } />
         </Routes>
+       
       </Navbar>
+      
+      
     </div>
   );
 }

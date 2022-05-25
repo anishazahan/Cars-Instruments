@@ -83,8 +83,8 @@ const Navbar = ({ children }) => {
                 </Link>
               </li>
               <li>
-              { user? <button onClick={logout} className="btn btn-ghost">SignOut</button> : <Link
-                  className="mx-.5 rounded-lg text-zinc-400 font-medium"
+              { user? <button onClick={logout} className="btn btn-info font-semibold rounded-md">SignOut</button> : <Link
+                  className="mx-.5 rounded-lg text-gray-200 font-medium"
                   to="/login"
                 >
                   Login
