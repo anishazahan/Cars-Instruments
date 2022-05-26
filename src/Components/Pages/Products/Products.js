@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import Product from './Product';
+import ProductModal from './ProductModal';
 
 const Products = () => {
     const [products, setProducts] = useState([]);
+    const [pdDetails,setPdDetails] = useState(null);
+
     useEffect(() => {
       fetch("product.json")
         .then((res) => res.json())
@@ -20,9 +23,11 @@ const Products = () => {
         </div>
       <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 px-40 pb-32">
               {products.map((product) => (
-                 <Product key={product.id} product={product}></Product>
+                 <Product key={product.id} product={product} setPdDetails={setPdDetails}></Product>
               ))}
       </div>
+
+      { pdDetails && <ProductModal pdDetails={pdDetails}></ProductModal>}
        
       </div>
     );
