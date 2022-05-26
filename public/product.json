@@ -1,0 +1,124 @@
+[
+
+    {
+        "id":1,
+        "name":"Direct Fit Gauge Sets",
+        "price":"100",
+        "minimumQuantity":"5",
+        "availableQuantity":"50",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0018269_direct-fit-gauge-sets_300.png",
+        "description":" Not so anymore. Rivals like the Chevrolet Trailblazer. "
+       
+    },
+
+    {
+        "id":2,
+        "name":"Universal Fit Gauge Sets",
+        "price":"150",
+        "minimumQuantity":"5",
+        "availableQuantity":"50",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0018280_universal-fit-gauge-sets_300.png",
+        "description":" All come with a 2.4-liter four-cylinder engine (177 horsepower). "
+       
+    },
+    {
+        "id":3,
+        "name":"Mounting Hardware",
+        "price":"200",
+        "minimumQuantity":"10",
+        "availableQuantity":"150",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0018273_mounting-hardware_300.jpeg",
+        "description":" Not so anymore. Rivals like the Chevrolet Trailblazer. "
+       
+    },
+    {
+        "id":4,
+        "name":"Wiring & Additional Parts",
+        "price":"80",
+        "minimumQuantity":"10",
+        "availableQuantity":"200",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0018282_wiring-additional-parts_300.png",
+        "description":" This warranty begins when the manufacturer’s warranty expires. "
+       
+    },
+    {
+        "id":5,
+        "name":"SN46Z",
+        "price":"150",
+        "minimumQuantity":"20",
+        "availableQuantity":"200",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0017631_sn46z_300.jpeg",
+        "description":"Gear Selector Interface Module "
+       
+    },
+    {
+        "id":6,
+        "name":"SN46Z",
+        "price":"500",
+        "minimumQuantity":"5",
+        "availableQuantity":"100",
+        "img":"https://ae01.alicdn.com/kf/Sace6f442a01a43bfa47081622460a472a/Digital-Virtual-Cockpit-Instrument-Cluster-For-VW-Scirocco-GTS-R-Line-Digital-Dashboard-LCD-Panel-Monitor.jpg_220x220xz.jpg_.webp",
+        "description":" Picture of SN46Z "
+       
+    },
+    {
+        "id":7,
+        "name":"Car covers & top covers",
+        "price":"300",
+        "minimumQuantity":"5",
+        "availableQuantity":"100",
+        "img":"https://pateurope.o.auroraobjects.eu/products/s/1-610061.webp",
+        "description":"Reliable protection against hailstones "
+       
+    },
+    {
+        "id":8,
+        "name":"620090 Snow chains 12mm KN20",
+        "price":"500",
+        "minimumQuantity":"5",
+        "availableQuantity":"100",
+        "img":"https://pateurope.o.auroraobjects.eu/products/4-620090.webp",
+        "description":"Snow chain UK, Snow chains UK "
+       
+    },
+    {
+        "id":9,
+        "name":"Wiring & Additional Parts",
+        "price":"500",
+        "minimumQuantity":"5",
+        "availableQuantity":"100",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0000250_customs_300.jpeg ",
+        "description":"Reliable protection against hailstones"
+       
+    },
+    {
+        "id":10,
+        "name":"Signs & Banners",
+        "price":"100",
+        "minimumQuantity":"5",
+        "availableQuantity":"500",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0018275_signs-banners_300.jpeg ",
+        "description":"Gear Selector Interface Module"
+       
+    },
+    {
+        "id":11,
+        "name":"LED External Warning Light, Blue",
+        "price":"50",
+        "minimumQuantity":"5",
+        "availableQuantity":"500",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0023014_led-external-warning-light-blue.jpeg ",
+        "description":"Blue LED Warning Light, silver finis Technical specifications"
+       
+    },
+    {
+        "id":12,
+        "name":" Clock Adapter Ring",
+        "price":"50",
+        "minimumQuantity":"5",
+        "availableQuantity":"200",
+        "img":"https://shop.classicinstruments.com/content/images/thumbs/0020041_1955-56-chevy-2-58-clock-adapter-ring.png ",
+        "description":"55-56 Chevy 2 5/8  Clock Adapter Ring"
+       
+    }
+]

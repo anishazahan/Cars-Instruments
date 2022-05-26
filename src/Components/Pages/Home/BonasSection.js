@@ -8,7 +8,7 @@ import "./BonasSection.css"
 
 const BonasSection = () => {
   return (
-    <div className="hero min-h-screen bg-base-200 ">
+    <div className="hero min-h-screen bg-base-200 pb-32 ">
       <div className="hero-content flex-col lg:flex-row flex-1">
         <div className="gallary lg:grid-rows-4 lg:flex-row">
             

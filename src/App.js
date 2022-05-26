@@ -6,7 +6,8 @@ import Contact from "./Components/Pages/Contact/Contact";
 import Home from "./Components/Pages/Home/Home";
 import Login from "./Components/Pages/Login/Login";
 import Register from "./Components/Pages/Register/Register";
-// import Services from "./Components/Pages/Services/Services";
+import Reviews from "./Components/Pages/Review/Reviews";
+
 import RequireAuth from "./Components/RequireAuth/RequireAuth";
 
 import Navbar from "./Components/Shared/Navbar";
@@ -18,7 +19,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          {/* <Route path="/services" element={<Services />} /> */}
+          <Route path="/reviews" element={<Reviews></Reviews>} />
+         
           <Route path="/blog" element={<Blog />} />
           <Route
             path="/contact"

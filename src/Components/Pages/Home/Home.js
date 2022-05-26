@@ -1,4 +1,5 @@
 import React from 'react'
+import Reviews from '../Review/Reviews'
 
 import Banner from './Banner'
 import BonasSection from './BonasSection'
@@ -12,8 +13,13 @@ const Home = () => {
     <div>
       <Banner></Banner>
       <Services></Services>
-   <BonasSection></BonasSection>
-   <HeroBack></HeroBack>
+      <BonasSection></BonasSection>
+      <HeroBack></HeroBack>
+    
+
+      <Reviews></Reviews>
+   
+   
    
    
     </div>
