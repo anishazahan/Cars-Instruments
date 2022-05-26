@@ -6,12 +6,12 @@ const ProductModal = ({pdDetails}) => {
   return (
     <div>
 
-<input type="checkbox" id="product-modal" class="modal-toggle" />
-<div class="modal modal-bottom sm:modal-middle">
-  <div class="modal-box">
-  <label for="product-modal" class="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
+<input type="checkbox" id="product-modal" className="modal-toggle" />
+<div className="modal modal-bottom sm:modal-middle">
+  <div className="modal-box">
+  <label for="product-modal" className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
 
-    <div className="flex flex-row">
+    {/* <div className="flex flex-row">
         <img className='w-40 h-40' src={img} alt="" />
         <div className="ml-5">
             <h2 className='font-bold'>{name}</h2>
@@ -20,11 +20,18 @@ const ProductModal = ({pdDetails}) => {
              <p className=''>AvailableQuantity: {availableQuantity}</p>
              <p>Price: <span className='text-3xl font-semibold'>{price}</span> $</p>
         </div>
-    </div>
+    </div> */}
+    <h2 className='font-bold text-center py-3 text-info'>{name}</h2>
+    <form>
+    <input type="text"  placeholder='Your Name' className='form-control w-full py-2 px-4 font-medium my-3 input-bordered'/>
+    <input type="text"  placeholder='Your Email' className='form-control w-full py-2 px-4 font-medium my-3  input-bordered'/>
+    <input type="text"  placeholder='Your Phone Number' className='form-control w-full py-2 px-4 font-medium my-3  input-bordered'/>
+    <textarea rows="6" cols="4" className='form-control w-full py-2 px-4 font-medium my-3  input-bordered' placeholder='Your Comment'></textarea>
+   <input type="submit" value="Submit" className='btn btn-info font-bold' />
+        
+    </form>
   
-    <div class="modal-action">
-      <button className='bg-black py-2 text-gray-200 px-3 rounded-md font-medium'> <small className='font-bold'>Send Inquery Now</small> </button>
-    </div>
+   
   </div>
 </div>
     </div>
