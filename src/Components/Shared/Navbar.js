@@ -53,9 +53,9 @@ const Navbar = ({ children }) => {
               <li>
                 <Link
                   className="mx-.5 rounded-lg text-zinc-400 font-medium"
-                  to="/about"
+                  to="/product"
                 >
-                  About
+                  Products
                 </Link>
               </li>
               <li>

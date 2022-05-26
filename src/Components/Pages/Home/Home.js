@@ -1,4 +1,5 @@
 import React from 'react'
+import Products from '../Products/Products'
 import Reviews from '../Review/Reviews'
 
 import Banner from './Banner'
@@ -15,7 +16,7 @@ const Home = () => {
       <Services></Services>
       <BonasSection></BonasSection>
       <HeroBack></HeroBack>
-    
+    <Products></Products>
 
       <Reviews></Reviews>
    

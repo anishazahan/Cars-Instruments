@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import Product from './Product';
 
 const Products = () => {
     const [products, setProducts] = useState([]);
@@ -11,15 +12,15 @@ const Products = () => {
     return (
       <div className="  py-8">
         <div className="text-center py-8 ">
-          <h2 className="text-4xl font-bold">Our Exclusive Products For Your Best Choice!!</h2>
-          <p className="font-medium py-5 w-2/3">
-          In this section, we focus on offering all models which are available for purchase under their basic specifications. Motory Shop team will constantly update the added categories so that the user can learn more about the car before buying. Also, you can always take a comprehensive look at all types of cars on Motory Shop to choose from the available models.
+          <h2 className="text-4xl font-bold">Our Exclusive Products For <br/><span className='text-info'> Your Best Choice!!</span></h2>
+          <p className="font-medium py-5 mx-auto w-2/3">
+          In this section, we focus on offering all models which are available for purchase under their basic specifications. Motory Shop team will constantly update the added categories .
           </p>
          
         </div>
-      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 px-20 pb-32">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 px-40 pb-32">
               {products.map((product) => (
-                  < key={service.id} service={service}></>
+                 <Product key={product.id} product={product}></Product>
               ))}
       </div>
        
