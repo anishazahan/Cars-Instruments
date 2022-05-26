@@ -27,7 +27,7 @@ const Products = () => {
               ))}
       </div>
 
-      { pdDetails && <ProductModal pdDetails={pdDetails}></ProductModal>}
+      { pdDetails && <ProductModal pdDetails={pdDetails} setPdDetails={setPdDetails}></ProductModal>}
        
       </div>
     );
