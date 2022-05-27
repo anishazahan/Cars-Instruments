@@ -1,8 +1,6 @@
 [
 
-    {
-        "id":1,
-        "name":"Direct Fit Gauge Sets",
+    {    "name":"Direct Fit Gauge Sets",
         "price":"100",
         "minimumQuantity":"5",
         "availableQuantity":"50",
@@ -11,9 +9,7 @@
        
     },
 
-    {
-        "id":2,
-        "name":"Universal Fit Gauge Sets",
+    {    "name":"Universal Fit Gauge Sets",
         "price":"150",
         "minimumQuantity":"5",
         "availableQuantity":"50",
@@ -21,9 +17,7 @@
         "description":" All come with a 2.4-liter four-cylinder engine (177 horsepower). "
        
     },
-    {
-        "id":3,
-        "name":"Mounting Hardware",
+    {     "name":"Mounting Hardware",
         "price":"200",
         "minimumQuantity":"10",
         "availableQuantity":"150",
@@ -31,9 +25,7 @@
         "description":" Not so anymore. Rivals like the Chevrolet Trailblazer. "
        
     },
-    {
-        "id":4,
-        "name":"Wiring & Additional Parts",
+    {        "name":"Wiring & Additional Parts",
         "price":"80",
         "minimumQuantity":"10",
         "availableQuantity":"200",
@@ -41,9 +33,7 @@
         "description":" This warranty begins when the manufacturer’s warranty expires. "
        
     },
-    {
-        "id":5,
-        "name":"SN46Z",
+    {        "name":"SN46Z",
         "price":"150",
         "minimumQuantity":"20",
         "availableQuantity":"200",
@@ -51,9 +41,7 @@
         "description":"Gear Selector Interface Module "
        
     },
-    {
-        "id":6,
-        "name":"SN46Z",
+    {        "name":"SN46Z",
         "price":"500",
         "minimumQuantity":"5",
         "availableQuantity":"100",
@@ -61,9 +49,7 @@
         "description":" Picture of SN46Z "
        
     },
-    {
-        "id":7,
-        "name":"Car covers & top covers",
+    {        "name":"Car covers & top covers",
         "price":"300",
         "minimumQuantity":"5",
         "availableQuantity":"100",
@@ -71,9 +57,7 @@
         "description":"Reliable protection against hailstones "
        
     },
-    {
-        "id":8,
-        "name":"620090 Snow chains 12mm KN20",
+    {    "name":"620090 Snow chains 12mm KN20",
         "price":"500",
         "minimumQuantity":"5",
         "availableQuantity":"100",
@@ -81,9 +65,7 @@
         "description":"Snow chain UK, Snow chains UK "
        
     },
-    {
-        "id":9,
-        "name":"Wiring & Additional Parts",
+    {    "name":"Wiring & Additional Parts",
         "price":"500",
         "minimumQuantity":"5",
         "availableQuantity":"100",
@@ -92,7 +74,6 @@
        
     },
     {
-        "id":10,
         "name":"Signs & Banners",
         "price":"100",
         "minimumQuantity":"5",
@@ -102,7 +83,6 @@
        
     },
     {
-        "id":11,
         "name":"LED External Warning Light, Blue",
         "price":"50",
         "minimumQuantity":"5",
@@ -112,7 +92,6 @@
        
     },
     {
-        "id":12,
         "name":" Clock Adapter Ring",
         "price":"50",
         "minimumQuantity":"5",
